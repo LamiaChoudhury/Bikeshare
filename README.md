@@ -1,2 +1,2 @@
-# C Bikeshare
+# Bikeshare
 Cyclistic Bikeshare
